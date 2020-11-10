@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Launch Pad (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4948731906959057895, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
+      propertyPath: m_TagString
+      value: Fuel
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
 --- !u!108 &705507994 stripped
@@ -300,14 +304,6 @@ PrefabInstance:
     - target: {fileID: 4948731906959057891, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4948731906959057891, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 4948731906959057891, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4948731906959057895, guid: 97917b2f6b8fda647acacb269bfc714a, type: 3}
       propertyPath: m_Name
